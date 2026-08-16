@@ -1,0 +1,101 @@
+customer_segment,MonthSinceFirstPurchase,retention_pct
+Best Customer,0,100.0
+Loyal Customer,0,100.0
+Average Customer,0,100.0
+At Risk / Lost Customer,0,100.0
+Best Customer,1,48.61
+Loyal Customer,1,35.22
+Average Customer,1,17.83
+At Risk / Lost Customer,1,4.52
+Best Customer,2,51.39
+Loyal Customer,2,35.38
+Average Customer,2,15.89
+At Risk / Lost Customer,2,3.03
+Best Customer,3,53.28
+Loyal Customer,3,34.82
+Average Customer,3,14.74
+At Risk / Lost Customer,3,3.95
+Best Customer,4,50.72
+Loyal Customer,4,31.24
+Average Customer,4,13.08
+At Risk / Lost Customer,4,2.46
+Best Customer,5,49.05
+Loyal Customer,5,29.56
+Average Customer,5,10.78
+At Risk / Lost Customer,5,2.74
+Best Customer,6,53.84
+Loyal Customer,6,27.09
+Average Customer,6,10.21
+At Risk / Lost Customer,6,1.77
+Best Customer,7,49.72
+Loyal Customer,7,27.57
+Average Customer,7,9.49
+At Risk / Lost Customer,7,1.49
+Best Customer,8,46.38
+Loyal Customer,8,23.67
+Average Customer,8,8.34
+At Risk / Lost Customer,8,1.09
+Best Customer,9,44.94
+Loyal Customer,9,21.83
+Average Customer,9,8.05
+At Risk / Lost Customer,9,1.03
+Best Customer,10,48.05
+Loyal Customer,10,18.49
+Average Customer,10,7.26
+At Risk / Lost Customer,10,1.03
+Best Customer,11,52.06
+Loyal Customer,11,22.39
+Average Customer,11,6.61
+At Risk / Lost Customer,11,1.09
+Best Customer,12,50.28
+Loyal Customer,12,21.91
+Average Customer,12,8.27
+At Risk / Lost Customer,12,1.03
+Best Customer,13,42.71
+Loyal Customer,13,19.76
+Average Customer,13,4.74
+At Risk / Lost Customer,13,0.63
+Best Customer,14,38.04
+Loyal Customer,14,15.94
+Average Customer,14,3.74
+At Risk / Lost Customer,14,0.17
+Best Customer,15,40.27
+Loyal Customer,15,15.7
+Average Customer,15,3.16
+At Risk / Lost Customer,15,0.11
+Best Customer,16,39.38
+Loyal Customer,16,14.1
+Average Customer,16,2.73
+At Risk / Lost Customer,16,0.11
+Best Customer,17,39.27
+Loyal Customer,17,15.14
+Average Customer,17,2.16
+At Risk / Lost Customer,17,0.17
+Best Customer,18,37.37
+Loyal Customer,18,11.79
+Average Customer,18,1.44
+At Risk / Lost Customer,18,0.06
+Best Customer,19,36.48
+Loyal Customer,19,12.83
+Average Customer,19,1.8
+At Risk / Lost Customer,19,0.06
+Best Customer,20,36.15
+Loyal Customer,20,9.56
+Average Customer,20,2.52
+At Risk / Lost Customer,20,0.0
+Best Customer,21,35.04
+Loyal Customer,21,7.41
+Average Customer,21,0.65
+At Risk / Lost Customer,21,0.0
+Best Customer,22,31.15
+Loyal Customer,22,5.34
+Average Customer,22,0.72
+At Risk / Lost Customer,22,0.06
+Best Customer,23,35.48
+Loyal Customer,23,3.43
+Average Customer,23,0.29
+At Risk / Lost Customer,23,0.0
+Best Customer,24,17.58
+Loyal Customer,24,0.64
+Average Customer,24,0.07
+At Risk / Lost Customer,24,0.0
